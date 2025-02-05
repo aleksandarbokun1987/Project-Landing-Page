@@ -1,0 +1,40 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.linkedEditing": true,
+    "auto-rename-tag.activationOnLanguage": [
+
+
+
+        
+        "*"
+    ],
+    {
+      "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"]
+    }
+    {
+    "highlight-matching-tag.customEmptyElements": null,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "highlight-matching-tag.highlightFromContent": true,
+    "highlight-matching-tag.highlightSelfClosing": true,
+    "highlight-matching-tag.styles": {
+  "opening": {
+    "name": {
+      "underline": "yellow"
+    }
+  }
+},
+"editor.inlayHints.enabled": "off",
+"workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+},
+"editor.wordWrap": "off",
+"diffEditor.wordWrap": "off",
+"editor.guides.indentation": false,
+"editor.guides.bracketPairs": false
+    
+}
